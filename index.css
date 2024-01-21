@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#hero {
+    background: #6943FF;
+    padding: 30px;
+    color: white;
+}
+
+button {
+    color: #3D3D3D;
+    background: #ffffff;
+    border: none;
+    padding: 3px;
+    border-radius: 3px;
+    margin: 5px;
+}
+
+.container {
+    background: #F4F4F4;;
+    padding: 10px 30px;
+}
+
+.cont-sub {
+    margin: 20px auto;
+    background: white;
+    padding: 5px;
+    border-radius: 5px;
+    color: #5A537B;
+    
+}
+
+p {
+    color: #353535;
+}
